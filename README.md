@@ -1,7 +1,10 @@
-<div align="center">
-  <img height="150" src="https://github.com/Kishore-51/Kishore.github.io/blob/main/IMG20230322101310.jpg"  />
-</div>
+<h1 align="center">Hi 👋, I'm Kishore Kumar Bhupuram</h1>
+<h3 align="center">A passionate Full Stack Java Developer</h3>
+<img align="right" alt="Coding" width="350" height="550" src="IMG20230322101310.jpg">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mangalavamsikrishna&label=Profile%20views&color=0e75b6&style=flat" alt="mangalavamsikrishna" /> </p>
+
+- 🌱 I’m currently learning **MERN Stack**
 ###
 
 <div align="center">

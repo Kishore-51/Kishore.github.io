@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Kishore Kumar Bhupuram</h1>
 <h3 align="center">A passionate Full Stack Java Developer</h3>
-<img align="right" alt="Coding" width="350" height="550" src="IMG20230322101310.jpg">
+<img align="right" alt="Coding" width="350" height="500" src="IMG20230322101310.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mangalavamsikrishna&label=Profile%20views&color=0e75b6&style=flat" alt="mangalavamsikrishna" /> </p>
+<p align="left">   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kishore-51.Kishore-51&"  /></p>
 
-- 🌱 I’m currently learning **MERN Stack**
+
+- 📚 I'm currently learning **Full Stack Java Development**
+- 💬 Ask me about **Java,SpringBoot,OracleSQL**
+- ⚡ In my free time I make my self better with new trande technology
+- 📫 How to reach me **kishorekish5r@gmail.com**
+
 ###
-
-<div align="center">
+<h3 align="left">Connect with me:</h3>
+<div align="left">
   <a href="https://www.linkedin.com/in/kishorekumar5" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -20,25 +25,13 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kishore-51.Kishore-51&"  />
-</div>
 
-###
 
-<h1 align="center">hey there 👋</h1>
 
-###
 
-<h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">I'm Kishore Kumar B from Guntakal<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning Full Stack Java Development <br>- 💬 Ask me about **Java,SpringBoot,OracleSQL**<br>- ⚡ In my free time I make my self better with new trande technology <br>- 📫 How to reach me **kishorekish5r@gmail.com**</p>
 
 ###
 
@@ -65,25 +58,18 @@
 </div>
 
 ###
+<div align="left">
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kishore-51&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Kishore-51&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kishore-51&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kishore-51&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###

@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kishore Kumar Bhupuram</h1>
-<h3 align="center">A passionate Full Stack Java Developer</h3>
+<h3 align="center">A passionate Java Developer</h3>
 <img align="right" alt="Coding" width="350" height="500" src="IMG20230322101310.jpg">
 
 <p align="left">   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kishore-51.Kishore-51&"  /></p>
 
 
-- 📚 I'm currently learning **Full Stack Java Development**
+- 📚 I'm currently learning **Java Development**
 - 💬 Ask me about **Java,SpringBoot,OracleSQL**
 - ⚡ In my free time I make my self better with new trande technology
 - 📫 How to reach me **kishorekish5r@gmail.com**

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kishore Kumar Bhupuram</h1>
 <h3 align="center">A passionate Java Developer</h3>
-<img align="right" alt="Coding" width="350" height="500" src="IMG20230322101310.jpg">
+<img align="right" alt="Coding" width="350" height="500" src="IMG20230322101310.jp">
 
 <p align="left">   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kishore-51.Kishore-51&"  /></p>
 
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <a href="https://www.hackerrank.com/profile/thedeadchest" target="_blank">
+  <a href="https://www.hackerrank.com/profile/kishore_51" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
   <a href="kishorekish5r@gmail.com" target="_blank">
